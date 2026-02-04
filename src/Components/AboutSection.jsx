@@ -128,8 +128,9 @@ const AboutSection = () => {
               },
               {
                 name: "Sarah Chen",
-                role: "Coffee Roaster",
-                image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+                role: "Coffee Roaster",     
+                 image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+
                 specialty: "Bean Selection & Blending",
                 experience: "8 years"
               },

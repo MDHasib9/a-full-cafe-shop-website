@@ -8,7 +8,7 @@ const TestimonialsSection = () => {
       id: 1,
       name: "Emily Chen",
       role: "Regular Customer",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      image: "https://img.freepik.com/premium-photo/passport-photo-portrait-asian-smiling-woman_264197-7651.jpg",
       rating: 5,
       text: "Hasib's Coffee has become my daily ritual! The caramel macchiato is perfection, and the atmosphere makes it the perfect spot to work or relax. Best coffee in town!",
       featured: true,
